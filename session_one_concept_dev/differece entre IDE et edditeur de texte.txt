@@ -1,0 +1,35 @@
+
+IDE est l'abréviation pour « Integrated Development Environment ». 
+Cette dénomination anglaise peut être traduite par « environnement de développement intégré ».
+---------------------------------------------------------------------------------------------------------
+tnajm thabt 3lih des extensions w fih des caracteristiques y3awno brcha w 
+ysahlo surtout fel les projet lekbar eli yetalbo kemya kbira mt3 code.
+------------------------------------------------------------------------------------------------------------------------------------------------
+reafactor=>y5alik ki t7eb tbadel esm mt3 variable mawjouda brcha matb9ach dour 3leha 
+bel ka3ba bel ka3ba bel reafactor tbadlhom kol dharba wa7da
+------------------------------------------------------------------------------------------------------------------------------------------------
+compiler:tal9aah mawjoud fel IDE
+eli may3rfch compiler howa eli ytarjm el code lel longuage machine wkol longage de 
+programmation 3ando compiler (compilateur) 5as byh
+------------------------------------------------------------------------------------------------
+terminal
+tnajm tektb fih des ordre wla t3ml affichage 
+kima shell wla cmd 
+--------------------------------
+macros :eli ylem brcha fonction fi felsa wa7da 
+build
+run
+=>build and rund;
+-----------------------------------------------------
+debuger
+7aja 3adhima brcha t5alik temchy 3al code mt3k ligne par ligne 
+IDE ki yabda y supporti l langage t3ml byh projet b construction s7i7a w matb9ach tet3b t3ml fi construction
+_____________________________________________________________________________________________
+par contre l'edditeur de texte mouwajah bch nes tektb 3lih l code wherever ysupporteha w fel 3da zeda
+maysobch compilateur mt3 les langage w aslan tnjm tkoun 9a3d tektb fi longage mou3ayn w howa moch fehmo 5atr maysuportiheech
+w yab9a yektb 3ady 
+---------------------------------------------------
+behy twa a7na men mosta7sn ki ne5dmo ne5dmo b IDE wla edditeur
+madhebyna mademna net3almo ne5dmo b editeur de texte bch nrakzo m3a l7aja li nt3almo feha w mandhi3och fi 5asa2s IDE;
+exemple des texte editors:netbeans/visual studio code/submit
+exemple d IDE:intellif/atom etc;

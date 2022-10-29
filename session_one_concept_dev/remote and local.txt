@@ -1,0 +1,5 @@
+remote respository:
+hedha howa el espace wla dossier wla samiwh kima t7ebo eli ye5dmo 3lih l'equippe kol w yhabto 3lih nes kol 5edmthom
+local respository :howa eli ye5dem 3leha kol developpeur wa7do fi pc mt3o wa7do w ngedo b git init 
+stage area :heya eli bch n7adhro feha tous les fichier eli bch n3mlolhom push
+working directory:projet/dossier eli ne5dmo 3lih

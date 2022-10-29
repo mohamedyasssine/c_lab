@@ -1,0 +1,19 @@
+ki nkamlo el site web mte3na bech nhabtoh 3al internet w ywali yetcheef w moch ken a7na nraw
+bech nchofo société t3mlelna el hosting (hebergement) ;
+cherika hedhy ykoun mawjouf feha DATA CENTER chambre  trés securisé yod5lolha ken lmo5tasin
+mawjoud feha les serveurs eli bch yet7at fih site mte3na 
+bhy chm3nha serveur :eserveur howa machine 9weya brcha 3andha emkenyeet 9weya brcha maj3oula bch t3ml 
+7ajeet eli manjmnech a7na na3mlohom bel pc mte3na
+serveur ynajm yo93d maytsakrch brchaaaa 7ata 10 snin
+behy serveur hedha bech yet9sem sur des package yoslo 7ata 100 package kol package bch yji fih site ya3ni sociéte 
+tched site mte3na t7oto fi package mel les package mt3 serveur 
+hedhy tari9a mel tora9 hebergement 
+les autre methodes sont a vos de chercher(always shearsh)
+-------------------------------------------------------------------------------------------------------
+mba3ed man3ml hebergement nemchy nechry domaine (men les website w mawjoudin brcha):
+subdomaine.domaine.tld 
+tld=>net network
+    com
+    net=>network
+    org=>organisation
+    info=>information

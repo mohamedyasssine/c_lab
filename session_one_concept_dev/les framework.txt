@@ -1,0 +1,26 @@
+behy kol longage de programmation 3ando framework ya3ni lezmna nrodo belna el framework mhyeech longage de programmation
+ama heya 7aja jeet bech tsahl 3lina el 5edma w zid t5alina ne5dmo 7ajeet kbar f a9al 3dad des ligne 
+w aham 5aseya lel framework heya eno kol ligne wla instruction de code jeet bech t3awdh bloc keml pour un fonction
+(don't repeat yourself)
+ya3ni twa m3adch les développeur yektbo site m 0 bel HTML w css etc waleew yest3mlo des framework kima:
+fel front end
+boostrap=>une petite framework pour l HTML et css;
+Angular =>basé sur typescript eli howa bido longage de programmation basé sur java script
+react =>basé sur javascript
+vue => basé sur javascript
+matetfj3och n7na mba3d manet3almo el html/css bch ne5dmo boostrap mb3d chn5dmo b angular;
+fel back end:
+php =>laravel,symphony;
+wla
+python=>jango;
+wla
+java=>spring/play
+wla
+RUBY=>Ruby on Rails
+wla
+nodejs=>expressjs (na7na 3am snee mb3d mnkmlo mn parti front end bch net3lmo el nodejs d'avantage eli a7na déja
+ on maitrise le javascript ya3ni une seule longage de programmation y3awsna bch ne5dmo back w front) 
+______________________________________________________________________________________________________________________
+ama hedha maymn3ch eno lezm net3almo les langage des base w nmaitrisiwhom mlii7 bech ki nabdeew n5dmo bel framework 
+manou7loch f les boeug
+wla ki nabdeew ne5dmo fi site 9diim w 3ana boeug njmo n7eloha;

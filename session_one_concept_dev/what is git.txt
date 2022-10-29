@@ -1,0 +1,34 @@
+git:distibuted version controled system:eli yhemna fel jomla hedhy heya kelmetr version ;
+ki tabda te5dm f société mt3 software el changement fel code w les mise a jour w ta7sineet f logiciel homa y5ajolna version jdida
+el git howa eli yetlheeli bel version w les manipulation de version 7ata lin twali heya version mt3 utilisateur
+git :free et open source
+github howa website machhour barcha eli t7ot fyh nees koool source code mte3ha tous les logiciel el mawjoudin f denya open source y7oto 
+l code source mt3hom fel git hub 
+twa chnya da5l el git bel github :
+tous simplement el git howa eli y5alina nhabto 3al github les lignes de commandes houma eli bech y5aliwna nhabto source code 
+3al github
+juste 7abitkom tefhmo eli l github raw moch howa l git raw najmo ne5dmo bel git 3la une autre serveur nhabto 3lih l code source mt3na 
+w hebergiw 3lih kima fasrtlkom l hebergement moch b dharoura git y3ni nhabet 3al github juste l git akther wehd m3rouf
+--------------------------------------------------------------------------------------------------------------
+github njmo nhabto 3ih mn8ir commande ligne ama raw ki tabda te5dm 3la projet kbir w ybdeew 3ndek bq de fichier mkch bch tb9a t3ml lel code f copier coller 
+w zid les commande ligne mouhemin brcha 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+3leeh jee l git:9bal keno la3beed ki bech ye5dmo 3la projet fameech cordination ki yod5el lowleeny yt3adel fel code maynjm yod5el 7ad lel file
+ w ki tsir mochkla fel code may3rfoch chkon eli mel equippe de devloppement tsabeb fel mochkla
+jee 3amk l git w nadhmelna le travail collaboratif 3la projet wla kol developpeur ki y3ml ta3dil 3al code lezmo y identifi ro7o w ynjm y3ml commentaire lel ba3do 
+w brcha 7ajeet o5rin
+behy men a7sen 7ajeet eli f git eno ay développeur ya3mel 8alta erreur  w yfi9o beha m b3d brcha wa9t ynjmo yarj3 y ignoriw l8alta adhika bark 5ater kima 9olna fyh 
+des version 9bal w ba3d
+ya3ni nees kool tet3awn w te5dem 3la nafs projet b souhoula teema
+----------------------------------------------------------------------------------------------------------------------------------------------------
+les mot technique
+repository:kol projet yet7at f repository
+branch:master/main ...:branche de projet
+commit:validation
+push:heya ki thabet el l file 	3la respository
+pull:ki tejbd el file(t3dileet) mel respository
+ay we7d ynajm y3ml push w pull selon les permission 
+mazeelo brcha 7ajeet madhebikom t3rfohom tw n5ali playlist twila mb3d lel 3bed li theb tet3am9
+n7na lyoum juste bech nchofo l7ajeet li bch t3awena fel 5edma
+local directory  howa el pc el5edma f local 
+remote directory howa eli fel github eli bech thabet 3lih l'equipe kol

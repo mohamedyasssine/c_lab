@@ -1,0 +1,24 @@
+1)mkdir project
+2)cd project
+---------------------------------
+3)git init=>initialiser le dossier 
+4) touch <file name>.txt
+5)ls
+6)git status=>n3rfo beeha les branch eli ne5dmo 3lehom
+---------------------------------------------
+7)git add <file name>.txt
+8)git status
+-----------------------------
+git reset head <file name>.txt
+----------------------------------
+git add *
+------------------------------------------------------------
+n3mlelhom validation fel local 
+7)git config --global user.email "<you@example.com>"
+8)git config --global user.name "<Your Name>"
+9)git commit -m "<your message about the commit commentaire>"
+commit heya el validation eli 3maltha 3la changement w les file eli zedthom 
+heya enk tvalidi eno l5edma eli 5demtha f work directory kol tet3ada bech n3mlelha mb3d push
+------------------------------------------------------------
+git remote add origin <your GitHub repo URL>
+git push -u origin master

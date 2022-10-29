@@ -1,0 +1,31 @@
+concept mt3 front end howa tous ce qui est vu par l'utilisateur ya3ni ay 7aja mawjouda 3al ecrant w najmo n'interajiw beha
+codé en :
+HTML/CSS/java script :ce sont les longages de base eli ay développeur web lezmo ykoun maitrezhom w mjarbhom mli7
+----------------------------------------------------------------------------------------------------------
+benesba le HTML :howa el corp mt3 el page les element mt3 lpage lkol yetktbo fel code HTML w howa eli yefhmo ay navigateur;
+-----------------------------------------------------------------------------------------------------------------------------
+benesba l CSS :CSS howa longage eli bech yzaynelna el page ya3ml l alween w aka l mise en forme w ta9sim les element mt3 lpage 
+win n7otohom w kol;
+--------------------------------------------------------------------------------------------------------
+java script y9oum b tous ce qui est dynamique kima popap wles verification des contenu des formulaires w tous ce qui est dynamique;
+
+l5edma mt3 front end yetsama web designer wla front end developper 
+
+
+
+________________________________________________________________________________________________________________________
+concept mt3 back end:tous ce qui est essenciel pour le fonctionnement de site web mais qu'il ne sera pas vu par le client
+metkawn men 3 7ajeet:
+1)serveur dans le quel on vas heberger notre sit web
+2)application:eli howa site web mte3na
+3)base de doné :eli bch ykoun mawjoud feha les donné mte3nas
+tous ca sont codé en:
+php
+python
+sql
+RUBY
+java
+nodejs
+(back end developper)
+_________________________________________________________________________________________________________________________
+full stack developper
