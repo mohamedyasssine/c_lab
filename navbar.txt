@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>you choose</title>
+    <link rel="website icon" type="png" href="logo2.png">
+    <!--font-->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/all.min.css">
+    <link rel="stylesheet" href="home.css" class="rel">
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+<header>
+    <nav>
+    <div class="logo">
+        <img src="logo3.png" alt="">
+    </div>
+    
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">about</a></li>
+            <li><a href="#">contact</a></li>
+            <li><a href="#">news</a></li>
+            <li><a href="#">shop</a></li>
+        </ul>
+        
+    <div>
+       <div class="header-icons">
+        <a class="shopping-cart" href="cart.html"><i class="fas fa-shopping-cart"></i></a>
+        <a class="mobile-hide search-bar-icon" href="#"><i class="fas fa-search"></i></a>
+    </div>
+    </div>
+    <div id="hamburger-icon" onclick="toggleMobileMenu(this)">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+        <ul class="mobile-menu">
+          <li><a href="/home">Home</a></li>
+          <li><a href="/products">about</a></li>
+          <li><a href="/about">About</a></li>
+          <li id="login"><a href="/login" >contact</a></li>
+          <li id="signup"><a href="/signup">news</a></li>
+          <li id="signup"><a href="/signup">shop</a></li>
+        </ul>
+      </div>        
+</nav>
+<div class="banner">
+    <p>
+        <span>Lorem ipsum dolor sit amet.</span>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, enim.
+    </p>
+</div >
+<div class="button">
+    <a href="contact.html">contact us</a>
+    <a href="shop.html">nos produits</a>
+
+</div>
+</header>
